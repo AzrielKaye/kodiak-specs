@@ -1,6 +1,6 @@
 # Business Logic
 
-> Development of a Web-based Student Housing Vacancy Map using Next.js for Viscans
+> Development of a Web-based Student Housing Vacancy Map using Next.js for Visayas State University - Main Campus Students
 
 - Allowed Platforms: Web, Android
 
